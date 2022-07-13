@@ -1,0 +1,25 @@
+{
+ "total": {
+  "credits": 761.44
+ },
+ "winning": {
+  "credits": 0
+ },
+ "referral": {
+  "credits": 0
+ },
+ "other": {
+  "credits": 0
+ },
+ "bonus": {
+  "credits": 69.22
+ },
+ "cdn": {
+  "credits": 0,
+  "seconds": 0
+ },
+ "gathering": {
+  "credits": 692.22,
+  "bytes": 2312654233
+ }
+}

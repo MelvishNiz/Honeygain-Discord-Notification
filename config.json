@@ -1,0 +1,17 @@
+{
+    "command": ["jumpTaskStats", "jumpTaskToday", "devices"],
+    "default_hookUrl": "",
+    "token_list": [{
+            "token": ""
+        },{
+            "token": ""
+        },{
+            "token": ""
+        },{
+            "token": ""
+        },{
+            "token": ""
+        }
+        
+    ]
+}

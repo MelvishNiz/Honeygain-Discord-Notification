@@ -1,0 +1,183 @@
+{
+ "meta": {
+  "pagination": {
+   "total_items": 10,
+   "total_pages": null,
+   "items_per_page": null,
+   "current_page": null
+  },
+  "ordering": null
+ },
+ "data": [
+  {
+   "id": "52eaa581f5600114ba482538a4469db2964e3bc6a89f03ffb8f2b006b28556fe",
+   "manufacturer": "Docker",
+   "model": "2",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 6097959486,
+    "total_credits": 1829.38,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.106",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:01:26"
+  },
+  {
+   "id": "11e99593aec692afd9d41b0ac655c3d6e9e5507037621563682e948aab8d8f53",
+   "manufacturer": "Docker",
+   "model": "8",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 5744006491,
+    "total_credits": 1723.2,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.60",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:02:22"
+  },
+  {
+   "id": "dffaefbe08ff4c706e83aa72007c2394022748bd84bc6f19e54237619fd7c5d7",
+   "manufacturer": "Docker",
+   "model": "9",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 5654698203,
+    "total_credits": 1696.4,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.109",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:03:25"
+  },
+  {
+   "id": "c150242d083f4befa3fc42ffcf36feeff3ab3a2adbafb7726990e9033969fd55",
+   "manufacturer": "Docker",
+   "model": "1",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 5225942139,
+    "total_credits": 1567.78,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.64",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:03:51"
+  },
+  {
+   "id": "9ef07e079a12da336591f4f34be7b1d292ce28027d3d037313891f4327254aaf",
+   "manufacturer": "Docker",
+   "model": "5",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 5002917743,
+    "total_credits": 1500.87,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.199",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:03:46"
+  },
+  {
+   "id": "aed3b8bed56d69de259599e6f52828e68d3d966f1f0285b9588589becf41e4c3",
+   "manufacturer": "Docker",
+   "model": "6",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 4738870450,
+    "total_credits": 1421.66,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.122",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:02:02"
+  },
+  {
+   "id": "40f1d48c4bc4885b08b7fdd549cb876c2be2ebb267c03ad8122cab6732739f3c",
+   "manufacturer": "Docker",
+   "model": "4",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 4650436778,
+    "total_credits": 1395.13,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.80",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:02:19"
+  },
+  {
+   "id": "a45f583c26e47e69a45726b2e3b5b8499768373176b4d590d9e8c10c81c2b37f",
+   "manufacturer": "Docker",
+   "model": "7",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 4628846732,
+    "total_credits": 1388.65,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.108",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:02:49"
+  },
+  {
+   "id": "ce93ef24e6363748b6900907c034abff768bee375bc597a66790825fcd002a32",
+   "manufacturer": "Docker",
+   "model": "3",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 4609855398,
+    "total_credits": 1382.95,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.31",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:02:55"
+  },
+  {
+   "id": "82b050f3ae40373833cc8e18dc971df393a65110",
+   "manufacturer": "QEMU",
+   "model": "pc-i440fx-5.2",
+   "title": null,
+   "platform": "windows",
+   "version": "10.0.17763",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 1500497223,
+    "total_credits": 450.14,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.144",
+   "status": "inactive",
+   "last_active_time": "2022-07-07 13:34:27"
+  }
+ ]
+}

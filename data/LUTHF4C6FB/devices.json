@@ -1,0 +1,149 @@
+{
+ "meta": {
+  "pagination": {
+   "total_items": 8,
+   "total_pages": null,
+   "items_per_page": null,
+   "current_page": null
+  },
+  "ordering": null
+ },
+ "data": [
+  {
+   "id": "85268616a289823efe7b28d42b9c71c671618a1e5b99262ea03dd7e80bd7d575",
+   "manufacturer": "Docker",
+   "model": "4",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 6414827197,
+    "total_credits": 1924.44,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.183",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:03:58"
+  },
+  {
+   "id": "05dc946441cc24cadc066bce813a689abaa37354a369015ccccabccd4b4557f2",
+   "manufacturer": "Docker",
+   "model": "7",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 6106655282,
+    "total_credits": 1831.99,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.79",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:03:15"
+  },
+  {
+   "id": "de72d2c38ba865509eb260b2835b9e0d39ee3ec8cbca51628382d567d552ea67",
+   "manufacturer": "Docker",
+   "model": "1",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 6084940134,
+    "total_credits": 1825.48,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.89",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:02:04"
+  },
+  {
+   "id": "0ad37eed2a699324393e8b798e59cba212be8afeb4fede8c045e7ec0bcd350d4",
+   "manufacturer": "Docker",
+   "model": "2",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 5854493274,
+    "total_credits": 1756.34,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.56",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:03:21"
+  },
+  {
+   "id": "9231f1d9ac6a2631992bf0bd66eb01e502e114d54438aca4f5895e8ad8103ddb",
+   "manufacturer": "Docker",
+   "model": "6",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 5571731620,
+    "total_credits": 1671.51,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.247",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:01:47"
+  },
+  {
+   "id": "8893717d9dd3c0d381438d5c0c95c54b4509f2f03e212d626d3523eb8971699d",
+   "manufacturer": "Docker",
+   "model": "5",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 5473790109,
+    "total_credits": 1642.13,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.29",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:03:02"
+  },
+  {
+   "id": "664ae945a10daa4fbe031b441eacb7e7ffea2c7b294d325428403a1aef633b1d",
+   "manufacturer": "Docker",
+   "model": "3",
+   "title": null,
+   "platform": "linux",
+   "version": "0.6.6",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 5349717276,
+    "total_credits": 1604.91,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.160",
+   "status": "active",
+   "last_active_time": "2022-07-13 08:02:04"
+  },
+  {
+   "id": "82b050f3ae40373833cc8e18dc971df393a65110",
+   "manufacturer": "QEMU",
+   "model": "pc-i440fx-5.2",
+   "title": null,
+   "platform": "windows",
+   "version": "10.0.17763",
+   "streaming_enabled": false,
+   "stats": {
+    "total_traffic": 1355587416,
+    "total_credits": 406.67,
+    "streaming_seconds": 0
+   },
+   "ip": "104.171.171.56",
+   "status": "inactive",
+   "last_active_time": "2022-07-07 13:34:59"
+  }
+ ]
+}
